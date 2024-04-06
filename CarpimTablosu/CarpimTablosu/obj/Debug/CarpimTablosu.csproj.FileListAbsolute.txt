@@ -1,0 +1,7 @@
+C:\Users\Technopc\source\repos\CarpimTablosu\CarpimTablosu\bin\Debug\CarpimTablosu.exe.config
+C:\Users\Technopc\source\repos\CarpimTablosu\CarpimTablosu\bin\Debug\CarpimTablosu.exe
+C:\Users\Technopc\source\repos\CarpimTablosu\CarpimTablosu\bin\Debug\CarpimTablosu.pdb
+C:\Users\Technopc\source\repos\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.csproj.AssemblyReference.cache
+C:\Users\Technopc\source\repos\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.csproj.CoreCompileInputs.cache
+C:\Users\Technopc\source\repos\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.exe
+C:\Users\Technopc\source\repos\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.pdb
